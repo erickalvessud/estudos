@@ -1,12 +1,12 @@
-#Exemplo de Cliente e Servidor RMI
+# Exemplo de Cliente e Servidor RMI
 
 Para rodar o exemplo, precisa-se configurar as seguintes variáveis de VM tanto para o projeto RMIServer e RMIClient
 
-##Variaveis de VM Server
+## Variaveis de VM Server
 
 	-Djava.security.policy=./src/server.policy
 
-##Variaveis de VM Client
+## Variaveis de VM Client
 
 	-Djava.security.policy=./src/client.policy
 
@@ -19,5 +19,5 @@ Comando:
 	start rmiregistry
 
 
-##Fonte de estudos:
+## Fonte de estudos:
 https://docs.oracle.com/javase/tutorial/rmi/overview.html
