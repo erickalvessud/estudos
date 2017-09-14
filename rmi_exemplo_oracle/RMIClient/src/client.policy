@@ -1,3 +1,3 @@
-grant codeBase "file:C:/Users/810198/Documents/pessoal/teste_rmi/RMIClient/bin" {
+grant {
     permission java.security.AllPermission;
 };
